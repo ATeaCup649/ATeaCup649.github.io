@@ -60,15 +60,15 @@ redirect_from:
 ## Education ##
 * **Linköping University**
   * Ph.D. in ELectrical Engineering, 2023-Present
-  * Advisrs: [Isaac Skog](https://www.kth.se/profile/skog?l=sv) (KTH) and [Gustaf Hendeby](https://www.hendeby.se/) (LiU)
+  * Advisors: [Isaac Skog](https://www.kth.se/profile/skog?l=sv) (KTH) and [Gustaf Hendeby](https://www.hendeby.se/) (LiU)
 
 * **Defence Institute of Advanced Technology, India**
-  * M.Tech. in ELectonics and Communication, 2018. First Class
+  * M.Tech. in ELectonics and Communication, 2018. **First Class**
   * Advisor: [Emeritus Prof. G.V. Anand](https://ieeexplore.ieee.org/author/37298180400)
   
   
 * **Mumbai University**
-  * B.Tech. in Electronics, 2011-15. First Class graduate.
+  * B.Tech. in Electronics, 2011-15. **First Class** 
   
 
 
