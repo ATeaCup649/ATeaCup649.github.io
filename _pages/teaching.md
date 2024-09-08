@@ -16,11 +16,11 @@ author_profile: true
 ## Master Thesis Supervision
 
 **Linköping University**
-* Oskar Ramsberg and Elin Wigström , Thesis: Simultaneous Aircraft Localization and Mapping using Signals of Opportunity and Inverse Depth Parametrization - 2023
-* William Nordström , Thesis: Time Synchronization in Radio Communication Networks Using LTE Base Stations - 2023.
+* Oskar Ramsberg and Elin Wigström , Thesis: Simultaneous Aircraft Localization and Mapping using Signals of Opportunity and Inverse Depth Parametrization  [2023].
+* William Nordström , Thesis: Time Synchronization in Radio Communication Networks Using LTE Base Stations  [2023].
 
 **IIT, Jammu**
-* Alish Gupta, Thesis: Underwater Speech Intelligibility Improvement-2021.
+* Alish Gupta, Thesis: Underwater Speech Intelligibility Improvement [2021].
 
 <!--
 {% include base_path %}
