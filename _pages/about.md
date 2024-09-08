@@ -32,7 +32,7 @@ _Research collaborations from both industry and academia are highly welcomed. If
 
    <li> <b>[Oct, 2024]</b>. WASP AI Sweden-Japan Workshop </li>
    
-   <li> <b>[Aug, 2024]</b>"Seminar" </li>
+   <li> <b>[Aug, 2024]</b> "Seminar" </li>
 
  
 
