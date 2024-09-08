@@ -60,7 +60,7 @@ redirect_from:
 ## Education ##
 * **Linköping University**
   * Ph.D. in ELectrical Engineering, 2023-Present
-  * Advisrs: Isaac Skog [KTH](https://www.kth.se/profile/skog?l=sv) and Gustaf Hendeby[LiU](https://www.hendeby.se/)
+  * Advisrs: [Isaac Skog (KTH)](https://www.kth.se/profile/skog?l=sv) and [Gustaf Hendeby (LiU)](https://www.hendeby.se/)
 
 * **Defence Institute of Advanced Technology, India**
   * M.Tech. in ELectonics and Communication, 2018. First Class
