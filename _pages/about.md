@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 # <i class="fa fa-cog fa-fw"></i> About me #
-I am an Applied Scientist at Amazon. I obtained my Ph.D. in Statistics at [Purdue University](https://www.purdue.edu/), where I was fortunate to be coadvised by [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/). 
-I also received an M.S. in Computer Science and Statistics during my Ph.D. study. 
-I received a B.Sc. in Mathematics from the [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html).
-I have interned at several companies including [Meta AI](https://ai.facebook.com), [Amazon Ads](https://advertising.amazon.com/), and [Sensetime Research](https://www.sensetime.com/en).
+I am a PhD. student at Linköping University, Sweden, specializing in signal processing with a focus on underwater acoustics. With a research background in underwater acoustics, parameter estimation, SONAR signal processing, and source localization, I am deeply invested in exploring the mathematical foundations of these fields. Their work is driven by a passion for solving real-time problems, with a particular emphasis on developing advanced algorithms and methodologies to enhance acoustic signal processing techniques in underwater environments. I am committed to pushing the boundaries of knowledge in this critical area, contributing to both academic research and practical applications. I am supervised by [Isaac Skog](https://www.kth.se/profile/skog?l=sv) (KTH) and [Gustaf Hendeby](https://www.hendeby.se/) (LiU).
+
 
 My research interests include:
 
-* Optimization Theory
-* Bandit Algorithms
-* Federated Learning
-* High Dimensional Statistics
-* Deep Learning Theory and Practice
+* Detection and Estimation
+* SONAR Systems
+* RADAR Systems
+* Communication Systems
+* Sensor Fusion
+* Tracking
+* Underwater Acoustics
 
 ---
-_Research collaborations from both industry and academia are highly welcomed. If you are interested in optimization/bandit/federated learning-related topics, feel free to [reach out to me](mailto: liwj@amazon.com)._
+_Research collaborations from both industry and academia are highly welcomed. If you are interested in optimization/bandit/federated learning-related topics, feel free to [reach out to me](mailto: ashwani.koul@liu.se)._
 
 ---
 
