@@ -12,7 +12,7 @@ author_profile: true
 
 * First Class Graduate in Bachelors, MU - 2011
 
-* Indian Oil education scholarship for meritorious students pursuing higher education - 2011 - 2015.
+* Indian Oil education scholarship for meritorious students pursuing higher education - [2011 - 2015].
 
 * **3rd** and **5th** rank in Mathematics and Physics respectively in JK-2011.
 
