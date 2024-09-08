@@ -7,36 +7,17 @@ author_profile: true
 ---
 # <i class="fa fa-fw fa-trophy"></i> Awards & Honors
 
-* First Honor Graduate, CUHK; **(Top 10%)**
+* First Class Graduate in Masters, DIAT - 2018
+* Qualified in Graduate Aptitude test, GATE - 2015; **(Top 1%)**
 
-* Dean's List 2018-2019; **(Top 10%)**
+* First Class Graduate in Bachelors, MU - 2011
 
-* NTK Academic Group Scholarship
+* Indian Oil education scholarship for meritorious students pursuing higher education - 2011 - 2015.
 
-* Heung To Education Fund Mathematics Scholarship **(Top 2)**
+* **3rd** and **5th** rank in Mathematics and Physics respectively in JK-2011.
 
-* Student Development Scholarship for Mathematics Undergraduates 2018
+* National Standard Examination in Astronomy - **(Top 1%)**
 
-* The D.H. Chen Foundation Scholarship 2017 **(Top 1%)**
+* Department of Science and Technology Science Talent Promotion Scholarship, Govt. of JK - 2010.
 
-* The S.H.Ho Annual Scholarships for Outstanding Academic Performance 2017 **(Top 3%)**
-
-* The S.H.Ho Foundation Student Exchange Scholarships 2017/18 
-
-* Dean’s List 2016-2017; **(Top 10%)**
-
-* Dean's List 2015-2016; **(Top 10%)**
-
-* Yasumoto International Exchange Scholarship (UPenn) 2017
-
-* Undergraduate Mathematics Scholarship 2016 **(Top 10%)**
-
-* Master’s List 2016-2017 **(Top 3%)**
-
-* S.H.Ho Summer Exchange Scholarship 2015-2016
-
-* Wei Lun Foundation Scholarships for Mainland Students 2015-2016
-
-* S.H.Ho Matriculation Scholarships for Academic Excellence 2015-2016
-
-* Honors at Entrance 2015-2016  **(Top 1)**
+* Representatiopn in sports such as Table Tennis, Football, Badminton and Cricket for different competitions. 
