@@ -36,7 +36,7 @@ _Research collaborations from both industry and academia are highly welcomed. If
 
  
 
-<div style="width: 100px; height: 100px; overflow: hidden; margin: 0 auto;">
+<div style="width: 300px; height: 300px; overflow: hidden; margin: 0 auto;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=7Zd1y8OLRnC4AfA6L5-y3OzevUT5UBDFjys4SLMz_sI&cl=ffffff&w=a"></script>
 </div>
 
