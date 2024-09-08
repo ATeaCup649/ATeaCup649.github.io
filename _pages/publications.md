@@ -12,7 +12,7 @@ author_profile: true
 
 2. G. V. Anand, **A. Koul**, S. Gurugopinath and P. V. Nagesha, "Residual Data Vector Method of Underwater Acoustic Source Localization by a Three-Dimensional Array," OCEANS 2022 - Chennai, Chennai, India, 2022, pp. 1-6 [[IEEE](https://ieeexplore.ieee.org/document/9775269)].
 
-3. Gupta, A.<sup>*</sup>, Koul, A.<sup>*</sup> and Nathwani, K., 2022, January. Underwater Speech Intelligibility Improvement Between Submarine to Surface Station in Compress Sensing Framework. In 2022 International Conference for Advancement in Technology (ICONAT) (pp. 1-6).[[IEEE](https://ieeexplore.ieee.org/document/9726099)]. 
+3. Gupta, A.<sup>*</sup>, **Koul, A.**<sup>*</sup> and Nathwani, K., 2022, January. Underwater Speech Intelligibility Improvement Between Submarine to Surface Station in Compress Sensing Framework. In 2022 International Conference for Advancement in Technology (ICONAT) (pp. 1-6).[[IEEE](https://ieeexplore.ieee.org/document/9726099)]. 
 
 4. **A. Koul**, M. Ali and K. Nathwani, "Differential Subspace Re-weighted Modelling for UWA Source Localization at Low SNRs," OCEANS 2021: San Diego – Porto, San Diego, CA, USA, 2021, pp. 1-7[[IEEE](https://ieeexplore.ieee.org/document/9705716)]. 
 
