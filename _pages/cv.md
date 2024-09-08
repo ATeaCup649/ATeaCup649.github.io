@@ -58,55 +58,42 @@ redirect_from:
 [//]: # (<img src="https://williamlwj.github.io/About/images/purdue.jpg" alt="Purdue" width="100"/> <img src="https://williamlwj.github.io/About/images/CUHK.jpg" alt="CUHK" width="100"/><img src="https://williamlwj.github.io/About/images/upenn.png" alt="Upenn" width="100"/><img src="https://williamlwj.github.io/About/images/sensetime.jpg" alt="Sensetime" width="100"/>)
 
 ## Education ##
-* **Purdue University**
-  * Ph.D. in Statistics, 2019-2023
-  * M.S. in Computer Science and Statistics, 2022
-  * Advisors: [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/) and [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/)
-  * [Selected Courses](https://williamlwj.github.io/About/courses/)
+* **Linköping University**
+  * Ph.D. in ELectrical Engineering, 2023-Present
+  * Advisrs: Isaac Skog [KTH](https://www.kth.se/profile/skog?l=sv) and Gustaf Hendeby[LiU](https://www.hendeby.se/)
+
+* **Defence Institute of Advanced Technology, India**
+  * M.Tech. in ELectonics and Communication, 2018. First Class
+  * Advisor: [Emeritus Prof. G.V. Anand](https://ieeexplore.ieee.org/author/37298180400)
   
-* **Chinese University of Hong Kong**
-  * B.Sc. in Mathematics, 2015-19. First honor graduate.
-  * Double stream in computational and enrichment Mathematics
-  * Advisor: [Prof. Ronald Lok Ming Lui](https://www.math.cuhk.edu.hk/~lmlui/)
-* **University of Pennsylvania**
-  * Exchange Student, 2018 
   
-
-
-## Industry ##
-
-* **Amazon Ads**
-  * Applied Scientist,  Oct 2023 - Now
-  * Advisors: Shan Kang
-
-
-* **Meta AI Research**
-  * Research Scientist Intern,  May-Aug, 2023
-  * Advisors: Wei Shao, Keqian Li, Siqi Wang
-  * Research Topic: Sequential Recommendation with Transformers
+* **Mumbai University**
+  * B.Tech. in Electronics, 2011-15. First Class graduate.
   
 
-* **Amazon Ads**
-  * Applied Scientist Intern,  May-Aug, 2022
-  * Advisors: Yuqing Xing, Caitlin Gray and [Prof. Xi Chen](https://www.stern.nyu.edu/faculty/bio/xi-chen)
-  * Research Topic: Prediction Intervals in Time Series Forecasts and Aggregations
-  
-* **Sensetime Research**
-  * Research Intern. May-Sep, 2019
-  * Supervisor: Xinjiang Wang. Advisor: [Prof. Ping Luo](https://luoping.me)
-  * Research Topic: Normalization and Optimization in Deep Learning
 
-## Service ##
-  * **Conferences/Workshops Reviewer**
-    * ICML2021, NeurIPS2021, OPT2021, ICLR2022, AISTATS2022, ICML2022, NeurIPS2022, OPT 2022, ICLR2023, ICML2023, 
-    AISTATS2024
-  * **Journals Reviewer**
-    * IEEE/CAA Journal of Automatica Sinica (JAS)
-    * Transactions on Machine Learning Research (TMLR)
-    * Neural Networks (NN)
-    * IEEE Transactions on Neural Network Research (TNNLS)
+## Work Experience
+**Doctoral Student (_August 2023 - Present_)**
+- Working to find methods for efficient joint sensing and communication in underwater taget position estimation.
 
+**Research Assistant (_July 2021 - March 2023_)**
+- Conducted research on finding fast and robust methods for the underwater acoustic source localization.
 
+**Research Assistant (_May 2019 - Jan 2021_)**
+- The objective was to devise robust speech signal techniques for underwater communication between submarines and surface stations.
+
+**Research Assistant (_Dec 2018 - Nov 2020_)**
+- Study of Algorithms for Various Applications in SONAR Signal Processing.
+
+**Research Assistant (_July 2017 - May 2018_)**
+- Compressed Sensing Techniques Application to Underwater Acoustic Source Localization.
+
+## Granted Projects
+### Algorithms for Fast Computation of Principal Components for Self Noise Cancellation in Underwater Acoustics (2020).
+- Funded by  Defence Research and Development Organization for (DRDO).
+- Project within the NPOL, DRDO, India.
+- Project Cost: 49,96,136 INR.
+- Roles Writing of the grant proposal with Dr. Nathwani . PI: Karan Nathwani 
 
 
 
