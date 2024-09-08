@@ -8,7 +8,8 @@ author_profile: true
 # <i class="fa fa-fw fa-trophy"></i> Awards & Honors
 
 * First Class Graduate in Masters, DIAT - 2018
-* Qualified in Graduate Aptitude test, GATE - 2015; **(Top 1%)**
+  
+*  Graduate Aptitude test, GATE - 2015; **(Top 1%)**
 
 * First Class Graduate in Bachelors, MU - 2011
 
