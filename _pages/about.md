@@ -22,7 +22,7 @@ My research interests include:
 * Underwater Acoustics
 
 ---
-_Research collaborations from both industry and academia are highly welcomed. If you are interested in optimization/bandit/federated learning-related topics, feel free to [reach out to me](mailto: ashwani.koul@liu.se)._
+_Research collaborations from both industry and academia are highly welcomed. If you are interested in above topics, feel free to [reach out to me](mailto: ashwani.koul@liu.se)._
 
 ---
 
@@ -34,12 +34,6 @@ _Research collaborations from both industry and academia are highly welcomed. If
    <li> <b>[Aug, 2024]</b>"Seminar" </li>
 
  
-
- // <li> <b>[Nov, 2023]</b>. I have defended my thesis and started to work as an Applied Scientist at Amazon! </li>
-
- // <li> <b>[Jun, 2023]</b>. <a href="https://williamlwj.github.io/About//publications/Fed-LASSO">"Federated Online Sparse Decision Making"</a> is accepted by Transactions on Machine Learning Research! </li>
-
-//  <li> <b>[May, 2023]</b>. <a href="https://williamlwj.github.io/About//publications/VHCT">"Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization"</a> is accepted by Transactions on Machine Learning Research! </li>
 
 <div style="width: 100px; height: 100px; overflow: hidden; margin: 0 auto;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=7Zd1y8OLRnC4AfA6L5-y3OzevUT5UBDFjys4SLMz_sI&cl=ffffff&w=a"></script>
