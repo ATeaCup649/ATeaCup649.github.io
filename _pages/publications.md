@@ -4,84 +4,18 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-# <i class="fa fa-fw fa-paste"></i> Papers. [[Google Scholar](https://scholar.google.com/citations?user=4jlUpjEAAAAJ&hl=en)] #
+# <i class="fa fa-fw fa-paste"></i> Papers. [[Google Scholar](https://scholar.google.com/citations?user=NljRoewAAAAJ&hl=en)] #
 
 
-### * denotes equal contribution or alphabetical order
+## Publications
+1. Ali, M., Koul, A. and Nathwani, K., 2022. Significance of group delay spectrum in re-weighted sparse recovery algorithms for DOA estimation. Digital Signal Processing, 122, p.103388[[Elsevier](https://doi.org/10.1016/j.dsp.2022.103388)].
 
+2. G. V. Anand, A. Koul, S. Gurugopinath and P. V. Nagesha, "Residual Data Vector Method of Underwater Acoustic Source Localization by a Three-Dimensional Array," OCEANS 2022 - Chennai, Chennai, India, 2022, pp. 1-6 [[IEEE](https://ieeexplore.ieee.org/document/9775269)].
 
-## Preprints
+3. Gupta, A., Koul, A. and Nathwani, K., 2022, January. Underwater Speech Intelligibility Improvement Between Submarine to Surface Station in Compress Sensing Framework. In 2022 International Conference for Advancement in Technology (ICONAT) (pp. 1-6).[[IEEE](https://ieeexplore.ieee.org/document/9726099)]. 
 
-[Concatenative Contrastive Sampling for Attention Based Sequential Recommendation]()\
-**Wenjie Li**, Wei Shao, Keqian Li, Siqi Wang, Zhaoqin Wang, Ning Yao. \
-Under Revision. 
+4. A. Koul, M. Ali and K. Nathwani, "Differential Subspace Re-weighted Modelling for UWA Source Localization at Low SNRs," OCEANS 2021: San Diego – Porto, San Diego, CA, USA, 2021, pp. 1-7[[IEEE](https://ieeexplore.ieee.org/document/9705716)]. 
 
-[PyXAB - A Python Library for X-Armed Bandit and Online Blackbox Optimization Algorithms](https://williamlwj.github.io/About//publications/PyXAB)\
-**Wenjie Li**<sup>*</sup>, Haoze Li<sup>*</sup>, Jean Honorio, Qifan Song\
-In Submission to JOSS. [codebase](https://github.com/WilliamLwj/PyXAB) _arXiv:2303.04030_
+5. Ali, M., Koul, A. and Nathwani, K., 2021. Group Delay Based Re-Weighted Sparse Recovery Algorithms for Robust and High-Resolution Source Separation in DOA Framework. In Interspeech (pp. 3031-3035)[[Interspeech](https://www.isca-archive.org/interspeech_2021/ali21_interspeech.html)]. 
 
-
-[On the Sharp Analysis of Online Blackbox Optimization]()\
-**Wenjie Li**, Jean Honorio, Qifan Song\
-Under Revision. 
-
-[Always-Valid Risk Bounds for Low-Rank Online Matrix Completion](https://williamlwj.github.io/About//publications/always_valid)\
-Chi-Hua Wang<sup>*</sup>, **Wenjie Li**<sup>*</sup>. \
-Under Revision.  _arXiv: 2211.10363_.
-
-
-[AdaX: Adaptive Gradient Descent with Exponential Long Term Memory](https://williamlwj.github.io/About//publications/AdaX)\
-**Wenjie Li**, Zhaoyang Zhang, Xinjiang Wang, Ping Luo. \
-Technical Report. _arXiv: 2004.09740_. 
-
-## Conferences/Journals
-
-
-[Personalized Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/PF-X)\
-**Wenjie Li**, Jean Honorio, Qifan Song. \
-**[AISTATS'24]**. _Proceedings of the 27th International Conference on Artificial Intelligence and Statistics, 2024_.
-
-
-
-[Federated X-Armed Bandit](https://williamlwj.github.io/About//publications/Fed-X)\
-**Wenjie Li**, Qifan Song, Jean Honorio, Guang Lin. \
-**[AAAI'24]**. _Proceedings of the 38-th AAAI Conference on Artificial Intelligence, 2024_.
-
-[Federated Online Sparse Decision Making](https://williamlwj.github.io/About//publications/Fed-LASSO)\
-Chi-Hua Wang, **Wenjie Li**, Guang Lin. \
-**[TMLR'23]**. _Transactions on Machine Learning Research, 2023_.
-
-
-[Optimum-statistical Collaboration Towards General and Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)\
-**Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng, Qifan Song. \
-**[TMLR'23]**. _Transactions on Machine Learning Research, 2023_.
-
-
-[A Simple Unified Framework for High Dimensional Bandit Problems](https://williamlwj.github.io/About//publications/Bandit_framework)\
-**Wenjie Li**, Adarsh Barik, Jean Honorio. \
-**[ICML'22]**. _Proceedings of the 39th International Conference on Machine Learning, 2022_.
-
-
-[Variance Reduction on General Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)\
-**Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
-**[MLJ'22]**. _Machine Learning, 111, pages 4639–4677, 2022_.
-
-
-
-
-## Workshops/ Internal Conferences
-
-[Bootstrap Resampling for Conformal Prediction Intervals on Time Series Forecasts and Aggregations]()\
-**Wenjie Li**, JZ Lu, Juxian Wang, Yuqing Xing, Caitlin Gray,  Iris Sun, Anbo Chen. \
-**[AMLC'23]**. _Amazon Machine Learning Conference 2023_.\
-**[CSS'23]**. _Amazon CSS Conference 2023_.
-
-
-[Optimum-statistical Collaboration Towards Efficient Black-box Optimization](https://williamlwj.github.io/About//publications/VHCT)\
-**Wenjie Li**<sup>*</sup>, Chi-Hua Wang<sup>*</sup>, Guang Cheng. \
-**[OPT@NeurIPS'21]**. _NeurIPS Optimization for Machine Learning Workshop 2021_.
-
-
-[Variance Reduction on Adaptive Stochastic Mirror Descent](https://williamlwj.github.io/About//publications/SVRGMD)\
-**Wenjie Li**, Zhanyu Wang, Yichen Zhang, Guang Cheng. \
-**[OPT@NeurIPS'20]**. _NeurIPS Optimization for Machine Learning Workshop 2020_. <span style="color:blue"> <b> (Spotlight) </b> </span>
+6. A. Koul, G. V. Anand, S. Gurugopinath and K. Nathwani, "Three-Dimensional Underwater Acoustic Source Localization by Sparse Signal Reconstruction Techniques," 2020 International Conference on Signal Processing and Communications (SPCOM), Bangalore, India, 2020, pp. 1-5[[IEEE](https://ieeexplore.ieee.org/document/9179579)]. 
