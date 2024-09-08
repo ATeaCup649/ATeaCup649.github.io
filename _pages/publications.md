@@ -6,7 +6,7 @@ author_profile: true
 ---
 # <i class="fa fa-fw fa-paste"></i> Papers. [[Google Scholar](https://scholar.google.com/citations?user=NljRoewAAAAJ&hl=en)] #
 
-### * denotes equal contribution or alphabetical order
+### * denotes equal contribution.
 ## Publications
 1. Ali, M.<sup>*</sup>, **Koul, A**.<sup>*</sup> and Nathwani, K., 2022. Significance of group delay spectrum in re-weighted sparse recovery algorithms for DOA estimation. Digital Signal Processing, 122, p.103388[[Elsevier](https://doi.org/10.1016/j.dsp.2022.103388)].
 
